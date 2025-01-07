@@ -32,7 +32,7 @@ Nesse perfil estarei armazenando meus **trabalhos acadêmicos e pessoais**, como
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>&nbsp;
 
-<a href="" target="_blank" title="E-mail">
+<a href="mailto:zlucasjunior1@gmail.com" target="_blank" title="E-mail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
   
